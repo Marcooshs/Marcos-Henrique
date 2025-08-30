@@ -47,8 +47,14 @@ Foco em **escopo e preço fechados**, entrega rápida (7–10 dias) e documenta�
 - Testes do “happy path”, **Swagger/OpenAPI** e **vídeo curto de uso** (Loom)  
 - **Deploy** na sua conta (ou hospedagem gerenciada) + handoff completo
 
----## 💬 Vamos conversar?
+---
+
+## 💬 Vamos conversar?
 - **LinkedIn:** [https://www.linkedin.com/in/seu-link](https://www.linkedin.com/in/marcos-henrique-da-silva-souza)  
 - **E-mail:** marcoshenriquedasilvasouza21@gmail.com  
 - **WhatsApp**: https://wa.me/message/J6KR6TOD3WLHK1
 - **Instagram**: https://www.instagram.com/marcooshs_
+
+---
+
+## 🔔 Disponível para freelas (APIs/mini-CRMs em Django). Respondo em até 24h.
